@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuickDine</string>
+    <string name="make_your_dine_faster">Make Your Dine Faster</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="log_in_as">Log in as ?</string>
+    <string name="foodie">FOODIE</string>
+    <string name="restaurant">RESTAURANT</string>
+    <string name="next">NEXT</string>
+    <string name="search_for_your_favourite_meal">Search for your favourite meal !!</string>
+    <string name="search_meal">Search meal....</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="crispy_corn_burger">Crispy Corn Burger</string>
+    <string name="description">Description</string>
+    <string name="a_sweet_buns_of_burger_served_with_a_delicious_crisped_corn_with_a_combo_of_salted_fries">A sweet buns of burger served with a delicious crisped corn., with a combo of salted fries !!</string>
+    <string name="half">HALF</string>
+    <string name="full">FULL</string>
+    <string name="full_">FULL</string>
+    <string name="price">Price</string>
+    <string name="order_now">Order Now</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553045755862",
+    "project_id": "quickdine-d4f75",
+    "storage_bucket": "quickdine-d4f75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553045755862:android:d27cbfab6a135f2dbe4677",
+        "android_client_info": {
+          "package_name": "com.example.quickdine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553045755862-51s9r6jqu68nhf3sjoj2n8j0telgrn2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgggkkuz97592Win_ZhfvZxJ_82SlcAUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553045755862-51s9r6jqu68nhf3sjoj2n8j0telgrn2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
