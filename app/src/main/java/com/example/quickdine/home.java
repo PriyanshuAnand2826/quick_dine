@@ -29,9 +29,9 @@ public class home extends AppCompatActivity {
             finish();
         });
         Profile.setOnClickListener(v->{
-            Fragment fragment=new tap_food();
-            FragmentTransaction fragmentTransaction=getSupportFragmentManager().beginTransaction();
-            fragmentTransaction.replace(R.id.container,fragment).commit();
+            Intent intent=new Intent(this,profile.class);
+            startActivity(intent);
+            finish();
         });
     }
 }

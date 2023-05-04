@@ -43,7 +43,7 @@ public class Google_login extends AppCompatActivity {
                 Intent signInIntent = mGoogleSignInClient.getSignInIntent();
                 startActivityIfNeeded(signInIntent, RC_SIGN_IN);
                 dialog = new Dialog(this);
-                dialog.setCancelable(true);
+                dialog.setCancelable(false);
                 dialog.setContentView(R.layout.loading_blue);
                 dialog.getWindow().setBackgroundDrawableResource(android.R.color.transparent);
                 dialog.show();
